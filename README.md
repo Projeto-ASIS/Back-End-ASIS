@@ -9,7 +9,7 @@ permitindo o cadastro, consulta, atualização e agendamento de atendimentos. O 
 Este repositório contém o código do back-end da aplicação, e foi criado com os seguintes propósitos fundamentais:
 
 - **Escalabilidade**: Capacidade de atender a um grande número de usuários simultaneamente, garantindo desempenho consistente.
-- **Integração**:API otimizada para uma comunicação ágil e confiável com o front-end.
+- **Integração**: API otimizada para uma comunicação ágil e confiável com o front-end.
 - **Usabilidade**: Interfaces e fluxos de interação com o usuário que são intuitivos e eficientes, garantindo uma boa experiência para os usuários finais.
 - **Manutenibilidade**: Facilidade de realizar ajustes, melhorias ou correções sem impactar negativamente o sistema.
 
