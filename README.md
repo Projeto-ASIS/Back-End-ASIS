@@ -19,3 +19,13 @@ Este repositório contém o código do back-end da aplicação, e foi criado com
 
 ## 🔧 Tecnologias Utilizadas:
 
+## 🚀 Como Executar o Projeto:
+
+## 📅 Roadmap: 
+
+## 💬 Contatos:
+
+## 🙌 Créditos: 
+
+
+
